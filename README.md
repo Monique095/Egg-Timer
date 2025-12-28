@@ -10,12 +10,17 @@ Just click on an egg type, and the timer will start automatically.
 🥚 Clickable egg images to start the timer
 
 🛑 Stop button to cancel the timer anytime
+
 🕒 Live countdown display
+
 🎨 Clean and simple UI
+
 🖋️ Uses Rubik Mono One font for a cool look
 
 🛠️ Built With
 
 HTML
+
 CSS
+
 JavaScript

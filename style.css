@@ -1,4 +1,8 @@
 
+body{
+  font-family: 'Rubik Mono One', monospace;
+}
+
 .container {
   background-color: #DED789;
   padding: 30px;

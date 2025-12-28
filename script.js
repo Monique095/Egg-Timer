@@ -29,7 +29,7 @@ function startTimer(seconds) {
 function stopTimer() {
   clearInterval(timer);
   document.getElementById("time").style.display = "none";
-  document.getElementById("message").textContent = "Timer stopped.";
+  document.getElementById("message").textContent = "";
   document.getElementById("stopBtn").style.display = "none";
 
    var array = document.querySelectorAll(".image-wrapper");

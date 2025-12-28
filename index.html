@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+
+  <meta charset="UTF-8">
+  <title>Egg Timer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Egg Timer</h1>
+
+  
+
+    <div class="container-images">
+        <div class="image-wrapper">
+            <button onclick="startTimer(300)" style="cursor: pointer">
+                <img src="soft-egg.png" alt="soft" width="150" height="180">
+            </button>
+            <button onclick="startTimer(420)" style="cursor: pointer">
+                <img src="medium-egg.png" alt="soft" width="150" height="180">
+            </button>
+            <button onclick="startTimer(600)" style="cursor: pointer">
+                <img src="hard-egg.png" alt="soft" width="150" height="180">
+            </button>
+        </div>
+
+        <div id="time" style="display: none;">00:00</div>
+        <div id="message"></div>
+
+        <button id="stopBtn" onclick="stopTimer()" style="display: none; cursor: pointer;">
+            Stop
+        </button>
+
+
+
+    </div>
+
+ 
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

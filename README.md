@@ -6,7 +6,9 @@ Just click on an egg type, and the timer will start automatically.
 🚀 Features
 
 ⏱️ Timers for soft, medium, and hard boiled eggs
+
 🥚 Clickable egg images to start the timer
+
 🛑 Stop button to cancel the timer anytime
 🕒 Live countdown display
 🎨 Clean and simple UI
